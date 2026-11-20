@@ -1,0 +1,9 @@
+NORTHSTAR RETAIL •  TRAINING DATASET
+Reporting period: 2–8 November 2026
+Definitions: Total incidents includes all categories. Scanner-sync incidents is a subset.
+Region       Total incidents     Scanner-sync incidents
+Cedar        16                  10
+Lake         14                   5
+Meadow       10                   3
+
+The dataset contains only this week. It provides no root-cause details and no individual records. Do not infer trends, customer impact or causation from it. For a missing-data test, use a copied version with Lake’s total blank and keep any affected rates unavailable.
